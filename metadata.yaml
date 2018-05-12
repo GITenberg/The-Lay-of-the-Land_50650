@@ -1,4 +1,8 @@
 _repo: The-Lay-of-the-Land_50650
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50650-h/images/cover.jpg
 creator:
   author:
     agent_name: Sharp, Dallas Lore
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5640
     wikipedia: http://en.wikipedia.org/wiki/Dallas_Lore_Sharp
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50650#The-Lay-of-the-Land
 gutenberg_issued: '2015-12-08'
 gutenberg_type: Text
 identifiers:
